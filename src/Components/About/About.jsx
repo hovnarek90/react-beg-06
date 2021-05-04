@@ -10,17 +10,7 @@ const About = () => {
         <h1>
         HELLO!
         </h1>
-          <h1>
-          <Zoom top cascade >
-          THIS IS MY
-          </Zoom>
-          </h1>
-        
-        <h1>
-        <Zoom top cascade >
-        FIRST REACT PROJECT ;)
-        </Zoom>
-        </h1>
+         
       </div>
     </div>
   )

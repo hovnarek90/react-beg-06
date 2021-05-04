@@ -109,7 +109,7 @@ useEffect(() => {
         {sortJSX}
       </DropdownButton>
       </Row>
-      <Row>
+      <Row className={style.date}>
         <Form.Group as={Col} controlId="formGridCity">
           <Form.Label>Create_lte</Form.Label>
           <DatePicker selected={searchState.create_lte} onChange={(date) => setDate(date, 'create_lte')} />

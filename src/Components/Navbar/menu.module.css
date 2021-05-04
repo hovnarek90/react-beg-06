@@ -1,4 +1,6 @@
 .navbar {
-    background-color: #1F2605 !important;
-    position: fixed;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #1f2605;
 }
