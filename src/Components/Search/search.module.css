@@ -6,4 +6,6 @@
 }
 .date {
   color: white;
+  text-align: center;
+  text-shadow: 7px 0 5px black;
 }
